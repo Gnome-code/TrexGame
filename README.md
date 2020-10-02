@@ -1,2 +1,2 @@
 # TrexGame
-Prototype of a chrom trex game project
+Prototype of a chrome trex game project
